@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ethancy.pay@gmail.com
+	name = ethan pay
